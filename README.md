@@ -43,10 +43,10 @@ Or [Youtube](https://www.youtube.com/channel/UCfgYdJ6v9A24sDpTPn13Wpw)
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mah007/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/mah007/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/mah007/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/mah007/odooapps?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/mah007/OdooScript?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/mah007/OdooScript?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/mah007/OdooScript?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/mah007/OdooScript?color=red&style=plastic)
 
 <br/>
 
